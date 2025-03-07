@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.gdharma.xyz # submit your host
+REDIS_HOST: redis.gdharma.xyz
+MYSQL_HOST: mysql.gdharma.xyz
+RABBITMQ_HOST: rabbitmq.gdharma.xyz
+CATALOGUE_HOST: catalogue.gdharma.xyz
+USER_HOST: user.gdharma.xyz
+CART_HOST: cart.gdharma.xyz
+SHIPPING_HOST: shipping.gdharma.xyz
+PAYMENT_HOST: payment.gdharma.xyz
+DISPATCH_HOST: dispatch.gdharma.xyz
