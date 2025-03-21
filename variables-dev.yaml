@@ -2,9 +2,9 @@ MONGODB_HOST: mongodb-dev.gdharma.xyz # submit your host
 REDIS_HOST: redis-dev.gdharma.xyz
 MYSQL_HOST: mysql-dev.gdharma.xyz
 RABBITMQ_HOST: rabbitmq-dev.gdharma.xyz
-CATALOGUE_HOST: catalogue-dev.gdharma.xyz
-USER_HOST: user-dev.gdharma.xyz
-CART_HOST: cart-dev.gdharma.xyz
-SHIPPING_HOST: shipping-dev.gdharma.xyz
-PAYMENT_HOST: payment-dev.gdharma.xyz
-DISPATCH_HOST: dispatch-dev.gdharma.xyz
+CATALOGUE_HOST: catalogue-app-dev.gdharma.xyz
+USER_HOST: user-app-dev.gdharma.xyz
+CART_HOST: cart-app-dev.gdharma.xyz
+SHIPPING_HOST: shipping-app-dev.gdharma.xyz
+PAYMENT_HOST: payment-app-dev.gdharma.xyz
+DISPATCH_HOST: dispatch-app-dev.gdharma.xyz
