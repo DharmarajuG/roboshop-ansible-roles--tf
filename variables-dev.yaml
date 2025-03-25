@@ -8,3 +8,5 @@ CART_HOST: cart-app-dev.gdharma.xyz
 SHIPPING_HOST: shipping-app-dev.gdharma.xyz
 PAYMENT_HOST: payment-app-dev.gdharma.xyz
 DISPATCH_HOST: dispatch-app-dev.gdharma.xyz
+NEXUS_URL: http://172.31.5.95:8081/repository
+group_id: "com/roboshop"
